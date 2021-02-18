@@ -91,6 +91,7 @@ void vendor_load_properties() {
     } else {
         LOG(ERROR) << __func__ << ": unexcepted region!";
     }
+	property_override("ro.oem_unlock_supported", "0");
     property_override("ro.build.fingerprint", "google/redfin/redfin:11/RQ1A.210205.004/7038034:user/release-keys");
     load_dalvik_properties();
 }
