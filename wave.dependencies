@@ -1,0 +1,13 @@
+[
+  {
+    "repository" :  "vendor_xiaomi_raphael",
+    "target_path":  "vendor/xiaomi",
+    "branch"     :  "r"
+  },
+  {
+    "repository" : "PixelExperience/packages_apps_PixelLiveWallpaper",
+    "target_path": "packages/apps/PixelLiveWallpaper",
+    "branch"     : "ten",
+    "remote"     : "gitlab"
+  }
+]
