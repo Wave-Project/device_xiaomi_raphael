@@ -71,7 +71,7 @@
 
     <!-- Popup camera settings -->
     <string name="popup_led_title">Светодиод камеры</string>
-    <string name="popup_led_summary">Вкалючать индикацию светодиодом, когда передняя камера появляется и убирается</string>
+    <string name="popup_led_summary">Включать индикацию светодиодом, когда передняя камера появляется и убирается</string>
     <string name="popup_title">Звуковые эффекты фронтальной камеры</string>
     <string name="popup_title_muqin">Ксилофон</string>
     <string name="popup_title_yingyan">Кондор</string>
@@ -82,8 +82,8 @@
 
 
     <!-- Thermal Profiles -->
-    <string name="thermal_title">Температурные профили</string>
-    <string name="thermal_summary">Настройте тепловые профили для каждого приложения для оптимальной производительности</string>
+    <string name="thermal_title">Профили оптимизации</string>
+    <string name="thermal_summary">Установите профили температуры для оптимальной производительности приложений</string>
     <string name="thermal_default">По умолчанию</string>
     <string name="thermal_benchmark">Бенчмарк</string>
     <string name="thermal_browser">Браузер</string>
@@ -99,7 +99,7 @@
     <string name="touch_response_title">Отклик сенсора экрана</string>
     <string name="touch_response_summary">Управление сенсорным откликом</string>
     <string name="touch_sensitivity_title">Сенсорная чувствительность</string>
-    <string name="touch_sensitivity_summary">Управление чувствительностью к касанию для повторяющихся нажатий</string>
-    <string name="touch_resistant_title">Сенсорная зона</string>
-    <string name="touch_resistant_summary">Уменьшите чувствительность к касанию по краям, чтобы не запускать сенсорное управление</string>
+    <string name="touch_sensitivity_summary">Управление чувствительностью к прикосновению при многократном нажатии</string>
+    <string name="touch_resistant_title">Чувствительность сенсора по краям</string>
+    <string name="touch_resistant_summary">Уменьшите чувствительность к касанию по краям, чтобы избежать срабатывания сенсора экрана</string>
 </resources>
